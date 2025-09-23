@@ -11,7 +11,7 @@ A place to try, fail, learn, and build.
 ## ToDo
 
 - [x] hello
-- [ ] subArray
+- [x] subArray
 - [x] prime
 
 ***
