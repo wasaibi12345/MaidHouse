@@ -12,7 +12,7 @@ A place to try, fail, learn, and build.
 
 - [x] hello
 - [ ] subArray
-- [ ] prime
+- [x] prime
 
 ***
 
