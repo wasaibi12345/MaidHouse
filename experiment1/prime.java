@@ -1,4 +1,4 @@
-package MaidHouse;
+package MaidHouse.experiment1;
 
 import java.util.Arrays;
 
