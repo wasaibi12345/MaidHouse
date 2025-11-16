@@ -11,7 +11,7 @@ public class School {
     private List<Student> students;
 
     // 构造器，确保 School 创建时满足以上约束
-    public School(List<Department> departments, List<Student> students) {
+    public School(List<Department> departments) {
         if (departments == null || departments.isEmpty()) {
             throw new IllegalArgumentException("学院 School 必须至少有一个系部 Department");
         }
