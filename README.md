@@ -10,9 +10,9 @@ A place to try, fail, learn, and build.
 
 ## ToDo
 
-- [x] hello
-- [x] subArray
-- [x] prime
+- [x] experiment1
+- [x] experiment3
+- [x] experiment4
 
 ***
 
